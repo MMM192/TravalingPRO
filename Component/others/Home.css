@@ -1,0 +1,103 @@
+#Cardiv1 {
+    height: 18cm;
+}
+
+#Cardiv2 {
+    height: 18cm;
+}
+
+#Cardiv3 {
+    height: 18cm;
+
+}
+
+#table1 {
+    margin-top: -60%;
+    color: rgb(255, 255, 255);
+    margin-left: 4%;
+}
+
+#tripLogo {
+
+    color: rgb(255, 255, 255);
+    font-size: 4ch;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+    /*cursive*/
+
+
+}
+
+#span1 {
+    width: 18cm;
+}
+
+.span2 {
+
+    width: 1cm;
+}
+
+#span3 {
+    height: 5cm;
+
+}
+
+#collec {
+
+    color: rgb(255, 255, 255);
+}
+
+#table2 {
+    margin-top: 5%;
+
+    margin-left: 10%;
+}
+
+#table3 {
+
+    color: rgb(255, 255, 255);
+    margin-left: 10%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.span4 {
+
+    width: 2ch;
+}
+
+#Delightful {
+    background-color: rgb(255, 86, 117);
+    color: rgb(0, 0, 0);
+    box-shadow: none;
+    width: 5cm;
+    height: 1.5cm;
+    font-size: 4ch;
+    border: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+#view {
+    background-color: rgb(255, 86, 117);
+    border: none;
+    border-radius: 2ch;
+    height: 5ch;
+    width: 3cm;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+#table21 {
+    margin-top: -55%;
+    color: rgb(255, 255, 255);
+    margin-left: 4%;
+}
+
+h5 {
+    color: rgb(207, 207, 207);
+}

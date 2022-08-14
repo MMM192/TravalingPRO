@@ -1,0 +1,76 @@
+/*-------------------section-1 ---------------------*/
+
+#aboutimg1 {
+    height: 14cm;
+
+
+}
+
+#aboutdiv2 {
+    height: 14cm;
+
+    background-color: rgb(255, 86, 117);
+    margin-left: -2.7ch;
+
+
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+#view1 {
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 2ch;
+    height: 5ch;
+    width: 3cm;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 8cm;
+
+}
+
+/*
+#contenerDiv {
+    background-color: rgb(255, 86, 117);
+    height: 15cm;
+
+}*/
+
+
+
+
+/*-------------------section-2 ---------------------*/
+
+.abouttr {
+    /*  background-color: aquamarine;*/
+    width: 13cm;
+    height: 3cm;
+    border-bottom: 0.1ch dotted black;
+}
+
+.abouttr:hover {
+    background-color: rgba(183, 181, 181, 0.5);
+
+    transition-duration: 2s;
+}
+
+#aboutlasttr {
+    border: none;
+}
+
+#aboutimg2 {
+
+    border-radius: 2ch;
+    width: 90%;
+    margin-top: -6ch;
+}
+
+#aboutlogo {
+
+    color: rgb(255, 86, 117);
+    width: 2cm;
+    height: 1cm;
+    margin-left: -15%;
+}

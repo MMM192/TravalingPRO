@@ -1,0 +1,41 @@
+#discovimg1 {
+    height: 10cm;
+    border-radius: 1ch;
+    margin-bottom: -8ch;
+
+}
+
+
+#exploreTXT {
+    color: rgb(255, 86, 117);
+}
+
+#exploreTXT1 {
+    color: rgb(0, 0, 0);
+}
+
+
+
+#exploreDiv1 {
+
+    background-color: rgb(255, 86, 117);
+    height: 22cm;
+    width: 100%;
+}
+
+#view3 {
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 2ch;
+    height: 5ch;
+    width: 3cm;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+#DiscoverIMG2 {
+
+    margin-top: -5ch;
+    border-radius: 1ch;
+}

@@ -1,0 +1,34 @@
+#PackagesIMG2 {
+
+    height: 6.2cm;
+}
+
+#packagelogo {
+
+    color: rgb(255, 86, 117);
+    width: 2cm;
+    height: 1cm;
+    margin-left: -15%;
+    margin-left: 40%;
+}
+
+#packageCARD {
+    color: rgb(255, 86, 117);
+
+}
+
+#PackagesBUTTON {
+    background-color: rgb(255, 86, 117);
+
+}
+
+
+#packageHOVER:hover {
+
+    background-color: rgba(168, 167, 167, 0.5);
+    transition-duration: 1s;
+}
+
+.packagePrice {
+    color: rgb(0, 0, 0);
+}

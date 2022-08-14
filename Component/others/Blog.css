@@ -1,0 +1,30 @@
+#vlogcardP {
+
+    color: rgb(83, 83, 83);
+}
+
+.bloglink {
+
+    text-decoration: none;
+    color: rgb(255, 86, 117);
+}
+
+#blogcard {
+    background-color: rgb(224, 224, 224, 0.5);
+}
+
+.cardimg1 {
+    width: 100%;
+
+    border-radius: 1.3ch;
+}
+
+#cardtitle {
+
+    background-color: rgb(255, 86, 117);
+}
+
+
+#BlogTitle {
+    color: black;
+}
